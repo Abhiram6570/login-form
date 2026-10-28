@@ -1,0 +1,13 @@
+
+.personIcon {
+    font-size: 90px;
+}
+
+
+.container-fluid{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    min-height:100vh;
+    width:auto;
+}
